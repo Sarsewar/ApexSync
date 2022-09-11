@@ -1,5 +1,5 @@
 # ApexSync
-Automatically sync your ApexSandbox.io solutions to GitHub.
+Automatically sync your [ApexSandbox.io](https://www.apexsandbox.io/) solutions to GitHub.
 
 #Features:
 - When you click the "run" button, it will automatically upload the code to GitHub. No more manual uploading!!
