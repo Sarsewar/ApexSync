@@ -5,7 +5,7 @@ Automatically sync your [ApexSandbox.io](https://www.apexsandbox.io/) solutions 
 - When you click the "run" button, it will automatically upload the code to GitHub. No more manual uploading!!
 - Reset the Editor.
 - Retrieve the code from GitHub.
-- Apexsandbox.io was unable to retain the solved solutions when the browser or sandbox were changed. This extension will address this drawback of the website with the help of GitHub. Simply use the retrieve feature to access your completed solutions in any browser or sandbox.
+- Apexsandbox.io was unable to retain the solved solutions when the browser or sandbox were changed. This extension will address the drawback of the website with the help of GitHub. Simply use the retrieve feature to access your completed solutions in any browser or sandbox.
 
 
 #I will soon publish the source code. 
