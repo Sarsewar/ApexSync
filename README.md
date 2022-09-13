@@ -1,7 +1,9 @@
 # [ApexSync](https://chrome.google.com/webstore/detail/apexsync/fnhpgladlghhekaggcolmidhinhckheh)
 Automatically sync your [ApexSandbox.io](https://www.apexsandbox.io/) solutions to GitHub.
 
-Download from Chrome Web Store : [ApexSync](https://chrome.google.com/webstore/detail/apexsync/fnhpgladlghhekaggcolmidhinhckheh)
+
+Download it from Chrome Web Store : [ApexSync](https://chrome.google.com/webstore/detail/apexsync/fnhpgladlghhekaggcolmidhinhckheh)
+
 
 Why ApexSync?
  
