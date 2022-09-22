@@ -19,6 +19,6 @@ Simply use the retrieved feature to access your completed solutions in any brows
 - Reset the Editor.
 - Retrieve the code from GitHub.
 
-#I will soon publish the source code. 
+
 
 #Developed by [Ankush Sarsewar](https://github.com/Sarsewar/)
